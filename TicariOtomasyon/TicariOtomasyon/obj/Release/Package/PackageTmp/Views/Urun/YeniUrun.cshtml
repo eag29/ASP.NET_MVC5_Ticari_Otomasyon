@@ -1,0 +1,46 @@
+﻿@model TicariOtomasyon.Models.Siniflar.Urun
+
+@{
+    ViewBag.Title = "YeniUrun";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<br />
+<h2> Yeni Ürün </h2>
+<br />
+<form class="form-group" method="post">
+
+    @Html.Label("Ürün Adı")
+    @Html.TextBoxFor(x => x.UrunAd, new { @class = "form-control" })
+    <br />
+
+    @Html.LabelFor(x => x.Marka)
+    @Html.TextBoxFor(x => x.Marka, new { @class = "form-control" })
+    <br />
+
+    @Html.LabelFor(x => x.Stok)
+    @Html.TextBoxFor(x => x.Stok, new { @class = "form-control" })
+    <br />
+
+    @Html.Label("Alış Fiyatı")
+    @Html.TextBoxFor(x => x.AlisFiyati, new { @class = "form-control" })
+    <br />
+
+    @Html.Label("Satış Fiyatı")
+    @Html.TextBoxFor(x => x.SatisFiyati, new { @class = "form-control" })
+    <br />
+
+    @Html.LabelFor(x => x.Kategori)
+    <br />
+    <br />
+    @Html.DropDownListFor(x => x.KategoriId, (List<SelectListItem>)ViewBag.deger1, new { @class = "form - control" })
+    @*@Html.TextBoxFor(x => x.KategoriId, new { @class = "form-control" })*@
+    <br />
+    <br />
+    @Html.Label("Ürün Görseli")
+    @Html.TextBoxFor(x => x.UrunGorsel, new { @class = "form-control" })
+    <br />
+
+    <button class="btn btn-primary"> Kaydet </button>
+</form>
+
