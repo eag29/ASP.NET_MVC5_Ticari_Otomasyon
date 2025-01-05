@@ -3,8 +3,11 @@
 Merhaba! Bu proje, ASP.NET MVC5 kullanarak geliştirdiğim, ticari otomasyon projesidir.  
 
 Bu proje, işletmelerin günlük iş süreçlerini karşılayabilecek çözümler sunmaktadır. 
+
 🗝️ Admin tarafında; kategori, ürün, departman ve carilerin ekleme ve güncelleme işlemleri gerçekleşebilmektedir. Ayrıca yapılan satışların detaylarını ve fatura yansımalarını da içermektedir.
+
 📦 Cari tarafında;  verilen siparişlerini görüntüleyebilir ve kargo takip süreçleri inceleyebilmektedir. Ayrıca diğer cariler ile mesajlaşma yolu ile iletişime geçme seçeneğine sahiptir.
+
 
 
 ## 🔑 Login Sayfası 
@@ -12,14 +15,17 @@ Bu proje, işletmelerin günlük iş süreçlerini karşılayabilecek çözümle
 ![Login](https://github.com/user-attachments/assets/f344ef44-cfda-4f95-89d5-44d50932a43f)
 
 
+
 ## 🥼 Cari Sayfası 
 
 ![Cari Paneli](https://github.com/user-attachments/assets/97dce2b8-54b4-4474-b8dc-54c4c6291d4c)
 
 
+
 ## 🖥️ Admin Sayfası 
 
 ![Admin](https://github.com/user-attachments/assets/a38c3dd0-cb5d-461c-800a-3089daa35703)
+
 
 
 
@@ -41,6 +47,21 @@ Bu proje, işletmelerin günlük iş süreçlerini karşılayabilecek çözümle
 
 
 
-## 📋 **Görseller*
+
+## 📋 **Görseller
+
+
+
+
+![CariPanelAyarlar](https://github.com/user-attachments/assets/af10d72e-55f5-48da-9ece-0e96ab1875a7)
+
+
+
+![CariPanelSiparişler](https://github.com/user-attachments/assets/5d6a5bbd-6c0c-4058-b8b3-90988da598cc)
+
+
+
+![CariPanelMesajlar](https://github.com/user-attachments/assets/29824731-0b89-4e1f-902c-94aebc022c5c)
+
 
 ---
