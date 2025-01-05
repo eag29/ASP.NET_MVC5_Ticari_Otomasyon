@@ -48,7 +48,7 @@ Bu proje, işletmelerin günlük iş süreçlerini karşılayabilecek çözümle
 
 
 
-## 📋 **Görseller
+## 📋 Görseller
 
 
 
@@ -63,5 +63,25 @@ Bu proje, işletmelerin günlük iş süreçlerini karşılayabilecek çözümle
 
 ![CariPanelMesajlar](https://github.com/user-attachments/assets/29824731-0b89-4e1f-902c-94aebc022c5c)
 
+
+
+![Ürünler](https://github.com/user-attachments/assets/0a76830d-bd54-4942-9846-d99460e5428f)
+
+
+
+![Departmanlar](https://github.com/user-attachments/assets/51760668-5d76-40b0-b4a2-7783f8f74a99)
+
+
+
+![Cariler](https://github.com/user-attachments/assets/6ddb520f-8a42-4d3e-be5c-a8cc635f1da5)
+
+
+
+![Personeller](https://github.com/user-attachments/assets/9cef12d2-be8c-4a8a-8d86-e3ede0b89c84)
+
+
+
+
+![Personel Tablosu](https://github.com/user-attachments/assets/7dad78ea-eadc-4eb6-9d34-7283085004b4)
 
 ---
