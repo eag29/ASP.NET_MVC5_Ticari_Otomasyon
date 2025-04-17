@@ -6,7 +6,7 @@ Bu proje, işletmelerin günlük iş süreçlerini karşılayabilecek çözümle
 
 🗝️ Admin tarafında; kategori, ürün, departman ve carilerin ekleme ve güncelleme işlemleri gerçekleşebilmektedir. Ayrıca yapılan satışların detaylarını ve fatura yansımalarını da içermektedir.
 
-📦 Cari tarafında;  verilen siparişlerini görüntüleyebilir ve kargo takip süreçleri inceleyebilmektedir. Ayrıca diğer cariler ile mesajlaşma yolu ile iletişime geçme seçeneğine sahiptir.
+📦 Cari tarafında; verilen siparişlerini görüntüleyebilir ve kargo takip süreçleri inceleyebilmektedir. Ayrıca diğer cariler ile mesajlaşma yolu ile iletişime geçme seçeneğine sahiptir.
 
 
 
