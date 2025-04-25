@@ -52,7 +52,6 @@ Bu proje, işletmelerin günlük iş süreçlerini karşılayabilecek çözümle
 
 
 
-
 ![CariPanelAyarlar](https://github.com/user-attachments/assets/af10d72e-55f5-48da-9ece-0e96ab1875a7)
 
 
